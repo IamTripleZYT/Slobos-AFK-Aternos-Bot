@@ -1221,6 +1221,7 @@ function createBot() {
       version: botVersion,
       hideErrors: false,
       checkTimeoutInterval: 600000,
+      forge: true,
     });
 
     bot.loadPlugin(pathfinder);
