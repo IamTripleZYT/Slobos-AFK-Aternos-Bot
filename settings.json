@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ServerDeMessi.aternos.me",
+    "ip": "aztecrail.aternos.host",
     "port": 17218,
     "version": "",
     "try-creative": false
